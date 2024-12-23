@@ -1,2 +1,0 @@
-# KaapyCurse
-KaapyCurse
